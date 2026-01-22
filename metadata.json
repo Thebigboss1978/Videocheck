@@ -1,0 +1,8 @@
+{
+  "name": "VidiSmart - AI Video Folder Strategist",
+  "description": "An intelligent dashboard that analyzes video file lists from Google Drive to suggest content strategies, editing workflows, and the best AI tools for social media success.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
